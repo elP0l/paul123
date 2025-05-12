@@ -14,8 +14,8 @@ Bienvenido a mi sitio personal. Aquí comparto quién soy, mis proyectos, tecnol
 ## 👤 Información personal
 - **Nombre:** Paul  
 - **Ocupación:** Estudiante  
-- **Lugar de residencia:** Guayaquil, Ecuador  
-- **Correo institucional:** pauaalci@sepol.edu.ec 
+- **Lugar de residencia:** Guayaquil 
+- **Correo institucional:**correo
 - **Sitio web:** [https://tusitio.com](https://tusitio.com)
 
 ---
