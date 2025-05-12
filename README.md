@@ -15,7 +15,7 @@ Bienvenido a mi sitio personal. Aquí comparto quién soy, mis proyectos, tecnol
 - **Nombre:** Paul  
 - **Ocupación:** Estudiante  
 - **Lugar de residencia:** Guayaquil 
-- **Correo institucional:**correo
+- **Correo institucional:** correo
 - **Sitio web:** [https://tusitio.com](https://tusitio.com)
 
 ---
