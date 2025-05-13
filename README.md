@@ -7,7 +7,6 @@ Bienvenido a mi sitio personal. Aquí comparto quién soy, mis proyectos y mis i
 - [Proyectos](#-proyectos)
 - [Intereses](#-intereses)
 - [Tecnologías](#-tecnologías)
-- [Contacto](#-contacto)
 
 ---
 
@@ -16,28 +15,19 @@ Bienvenido a mi sitio personal. Aquí comparto quién soy, mis proyectos y mis i
 - **Ocupación:** Estudiante  
 - **Lugar de residencia:** Guayaquil 
 - **Correo institucional:** correo
-- **Sitio web:** [https://tusitio.com](https://tusitio.com)
+- **Sitio web:** [](https://elp0l.github.io/paul123/)
 
 ---
 
 ## 💻 Proyectos
 Aquí encontrarás una lista de mis proyectos más destacados:
 
-### Proyecto 1: [Nombre del Proyecto](https://enlace-al-proyecto.com)
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías utilizadas:** HTML, CSS, JavaScript.
-- **Estado:** En desarrollo.
+### Proyecto 1: [ED.P1.Grupo07]
+- **Descripción:** poder adivinar el animal por medio de preguntas
+- **Tecnologías utilizadas:** Java.
+- **Estado:** Completado
 - **Capturas de pantalla:**  
-  ![Captura 1](https://via.placeholder.com/150)  
-  ![Captura 2](https://via.placeholder.com/150)
-
-### Proyecto 2: [Nombre del Proyecto](https://enlace-al-proyecto.com)
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías utilizadas:** Python, Flask.
-- **Estado:** Completado.
-- **Capturas de pantalla:**  
-  ![Captura 1](https://via.placeholder.com/150)
-
+  ![Captura 1](https://imgur.com/a/10GscYF.png)  
 ---
 
 ## 📘 Intereses
@@ -50,13 +40,5 @@ Aquí encontrarás una lista de mis proyectos más destacados:
 
 ## 🛠️ Tecnologías
 Estas son algunas de las tecnologías que utilizo frecuentemente:
-- **Lenguajes de programación:** Python, JavaScript, HTML, CSS.
-- **Frameworks:** Flask, React.
-- **Herramientas:** Git, VS Code, Docker.
-
----
-
-## 📞 Contacto
-- **Correo institucional:** correo
-- **LinkedIn:** [Tu perfil de LinkedIn](https://linkedin.com/in/tu-perfil)
-- **GitHub:** [Tu perfil de GitHub](https://github.com/tu-usuario)
+- **Lenguajes de programación:** Python, Java.
+- **Herramientas:** Git
