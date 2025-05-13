@@ -15,7 +15,7 @@ Bienvenido a mi sitio personal. Aquí comparto quién soy, mis proyectos y mis i
 - **Ocupación:** Estudiante  
 - **Lugar de residencia:** Guayaquil 
 - **Correo institucional:** correo
-- **Sitio web:** [](https://elp0l.github.io/paul123/)
+- **Sitio web:** [https://elp0l.github.io/paul123/](https://elp0l.github.io/paul123/)
 
 ---
 
@@ -26,10 +26,33 @@ Aquí encontrarás una lista de mis proyectos más destacados:
 - **Descripción:** poder adivinar el animal por medio de preguntas
 - **Tecnologías utilizadas:** Java.
 - **Estado:** Completado
-- **Capturas de pantalla:**  
-  ![Captura 1](https://imgur.com/a/10GscYF.png)  
----
+- **Sitio web:** [https://github.com/paul2723/ED.P1.Grupo07.git](https://github.com/paul2723/ED.P1.Grupo07.git)
+  
+  ![Captura 1](https://arielortiz.info/s201411/tc1018/arbol_animal.png)
+  ##### referencia de como trabaja el proyecto
 
+  
+### Proyecto 2: [Estructura]
+- **Descripción:** el proyecto es una forma de crear iteradores que permitan recorrer los elemenos uno a uno
+- **Tecnologías utilizadas:** Java.
+- **Estado:** Completado
+- **Sitio web:** [https://github.com/paul2723/Estructura.git](https://github.com/paul2723/Estructura.git)
+  
+   ![Captura 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMViGMx1SzVSQ6bS8MlkpdlKnKkqZu6DlRuw&s)
+  
+   ##### referencia de como trabaja el proyecto
+  
+### Proyecto 3: [tareadise]
+- **Descripción:** el proyecto es una forma de comprobar si el codigo con las variables estan bien declaradas y se usan de una forma apropiada
+- **Tecnologías utilizadas:** Java.
+- **Estado:** Completado
+- **Sitio web:** [https://github.com/paul2723/tareadise.git](https://github.com/paul2723/tareadise.git)
+  
+  ![Captura 3](https://ferestrepoca.github.io/paradigmas-de-programacion/poa/poa_teoria/Images/python.webp?raw=true)
+  ##### captura de ejemplo de lo que hace el proyecto
+
+  ---
+  
 ## 📘 Intereses
 - Aprender a programar
 - Desarrollo web
@@ -42,3 +65,5 @@ Aquí encontrarás una lista de mis proyectos más destacados:
 Estas son algunas de las tecnologías que utilizo frecuentemente:
 - **Lenguajes de programación:** Python, Java.
 - **Herramientas:** Git
+- estos lenguajes se usaron en los proyectos para poder implementar los requisitos que se ordeno.
+
