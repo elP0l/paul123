@@ -37,10 +37,10 @@ Aquí encontrarás una lista de mis proyectos más destacados:
 - **Tecnologías utilizadas:** Java.
 - **Estado:** Completado
 - **Sitio web:** [https://github.com/paul2723/Estructura.git](https://github.com/paul2723/Estructura.git)
-  
+   ### referencia de como trabaja el proyecto
    ![Captura 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMViGMx1SzVSQ6bS8MlkpdlKnKkqZu6DlRuw&s)
   
-   ##### referencia de como trabaja el proyecto
+  
   
 ### Proyecto 3: [tareadise]
 - **Descripción:** el proyecto es una forma de comprobar si el codigo con las variables estan bien declaradas y se usan de una forma apropiada
