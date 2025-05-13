@@ -27,9 +27,8 @@ Aquí encontrarás una lista de mis proyectos más destacados:
 - **Tecnologías utilizadas:** Java.
 - **Estado:** Completado
 - **Sitio web:** [https://github.com/paul2723/ED.P1.Grupo07.git](https://github.com/paul2723/ED.P1.Grupo07.git)
-  
+- referencia de como es el proyecto
   ![Captura 1](https://arielortiz.info/s201411/tc1018/arbol_animal.png)
-  ##### referencia de como trabaja el proyecto
 
   
 ### Proyecto 2: [Estructura]
@@ -37,7 +36,7 @@ Aquí encontrarás una lista de mis proyectos más destacados:
 - **Tecnologías utilizadas:** Java.
 - **Estado:** Completado
 - **Sitio web:** [https://github.com/paul2723/Estructura.git](https://github.com/paul2723/Estructura.git)
-   ### referencia de como trabaja el proyecto
+- referencia de como trabaja el proyecto
    ![Captura 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMViGMx1SzVSQ6bS8MlkpdlKnKkqZu6DlRuw&s)
   
   
@@ -47,9 +46,8 @@ Aquí encontrarás una lista de mis proyectos más destacados:
 - **Tecnologías utilizadas:** Java.
 - **Estado:** Completado
 - **Sitio web:** [https://github.com/paul2723/tareadise.git](https://github.com/paul2723/tareadise.git)
-  
-  ![Captura 3](https://ferestrepoca.github.io/paradigmas-de-programacion/poa/poa_teoria/Images/python.webp?raw=true)
-  ##### captura de ejemplo de lo que hace el proyecto
+- captura de ejemplo de lo que hace el proyecto
+  ![Captura 3](https://ferestrepoca.github.io/paradigmas-de-programacion/poa/poa_teoria/Images/python.webp?raw=true) 
 
   ---
   
